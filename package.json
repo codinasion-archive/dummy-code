@@ -1,6 +1,6 @@
 {
   "name": "dummy-code",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Collection of dummy Typescript functions",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
