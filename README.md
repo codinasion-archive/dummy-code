@@ -1,11 +1,11 @@
-<h1 align="center">
+<h2 align="center">
     <a href="https://www.npmjs.com/package/dummy-code">
-        <img src="./LOGO.png" alt="Dummy Code" width="150" />
+        <img src="LOGO.png" alt="Dummy Code" width="100" />
     </a>
     <br>
     Dummy Code
     <br>
-</h1>
+</h2>
 
 <h4 align="center">A collection of useful TypeScript functions</h4>
 
@@ -38,20 +38,19 @@ npm install --save dummy-code@latest
 Now, you can import the functions you need:
 
 ```typescript
-import { AddTwoNumbers } from 'dummy-code';
+import { ConvertDecimalToBinary } from "dummy-code";
 ```
 
 Example:
 
 ```typescript
-import { AddTwoNumbers } from 'dummy-code';
+import { ConvertDecimalToBinary } from "dummy-code";
 
-let a = 5;
-let b = 10;
+let decimal = 10;
 
-let sum = AddTwoNumbers(a, b);
+let binary = ConvertDecimalToBinary(decimal);
 
-console.log(`The sum of '${a}' and '${b}' is '${sum}'`);
+console.log("The Binary conversion of " + decimal + " is " + binary);
 ```
 
 ## Dummy Functions
@@ -61,3 +60,37 @@ You can find the list of all the functions in the [FUNCTION.md](FUNCTION.md) fil
 ## Contributing
 
 If you want to contribute to this project, please read the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+
+<table>
+  <tr>
+    <td>
+    <img align="left" src="https://raw.githubusercontent.com/codinasion/.github/master/assets/octocat.png" width="190">
+    <h3>Thanks for contributing :purple_heart:</h3>
+    <ul>
+      <li>Thanks for all your contributions and efforts</li>
+      <li>We thank you being part of our :sparkles: commUnity :sparkles: !</li>
+    </ul>
+    <img width="900" height="0">
+    </td>
+  </tr>
+</table>
+
+## Join us in discussions
+
+We use GitHub Discussions to talk about all sorts of topics related to documentation and this project. For example: if you'd like help troubleshooting a PR, have a great new idea, or want to share something amazing, join us in the [discussions][11].
+
+## Maintainers
+
+This project is maintained by the following team members:
+
+- [@harshraj8843](https://github.com/harshraj8843)
+
+---
+
+<p align="center">
+Made with 💖 by 9 Bit of Code
+</p>
+
+---
+
+[11]: https://github.com/orgs/9bitofcode/discussions "Discussions"

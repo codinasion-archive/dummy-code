@@ -1,12 +1,16 @@
-name: Documentation
+name: 📄 Documentation issue
 description: Found an issue in the documentation? You can use this one!
-labels: ['documentation']
+labels: ["documentation"]
 body:
   - type: markdown
     attributes:
       value: |
-        * For questions, ask in [Discussions](https://github.com/codinasion/dummy-code/discussions).
-        * Check to make sure someone hasn't already opened a similar [issue](https://github.com/codinasion/dummy-code/issues).
+        **Hey Geek !!!** 
+
+        This is an open source repository.
+
+        * For questions, ask in [Discussions](https://github.com/orgs/9bitofcode/discussions).
+        * Check to make sure someone hasn't already opened a similar [issue](https://github.com/9bitofcode/year-progress-2/issues).
 
   - type: textarea
     id: description
@@ -30,5 +34,5 @@ body:
       label: Code of Conduct
       description: This project has a Code of Conduct that all participants are expected to understand and follow.
       options:
-        - label: I have read and agree to the project's [Code of Conduct](CODE_OF_CONDUCT.md)
+        - label: I have read and agree to the 9bitofcode project's [Code of Conduct](CODE_OF_CONDUCT.md)
           required: true
