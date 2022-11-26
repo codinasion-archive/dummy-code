@@ -79,18 +79,12 @@ If you want to contribute to this project, please read the [CONTRIBUTING.md](CON
 
 We use GitHub Discussions to talk about all sorts of topics related to documentation and this project. For example: if you'd like help troubleshooting a PR, have a great new idea, or want to share something amazing, join us in the [discussions][11].
 
-## Maintainers
-
-This project is maintained by the following team members:
-
-- [@harshraj8843](https://github.com/harshraj8843)
-
 ---
 
 <p align="center">
-Made with 💖 by 9 Bit of Code
+Made with 💖 by Codinasion
 </p>
 
 ---
 
-[11]: https://github.com/orgs/9bitofcode/discussions "Discussions"
+[11]: https://github.com/orgs/codinasion/discussions "Discussions"

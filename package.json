@@ -4,7 +4,7 @@
   "description": "Collection of dummy Typescript functions",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "repository": "https://github.com/9bitofcode/dummy-code",
+  "repository": "https://github.com/codinasion/dummy-code",
   "keywords": [
     "dummy code",
     "dummy functions",
